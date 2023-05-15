@@ -1,0 +1,15 @@
+C:\Users\vikam\OneDrive\Рабочий стол\курсовая\coursewoek\coursewoek\obj\Debug\net6.0\coursewoek.csproj.AssemblyReference.cache
+C:\Users\vikam\OneDrive\Рабочий стол\курсовая\coursewoek\coursewoek\obj\Debug\net6.0\coursewoek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vikam\OneDrive\Рабочий стол\курсовая\coursewoek\coursewoek\obj\Debug\net6.0\coursewoek.AssemblyInfoInputs.cache
+C:\Users\vikam\OneDrive\Рабочий стол\курсовая\coursewoek\coursewoek\obj\Debug\net6.0\coursewoek.AssemblyInfo.cs
+C:\Users\vikam\OneDrive\Рабочий стол\курсовая\coursewoek\coursewoek\obj\Debug\net6.0\coursewoek.csproj.CoreCompileInputs.cache
+C:\Users\vikam\OneDrive\Рабочий стол\курсовая\coursewoek\coursewoek\bin\Debug\net6.0\coursewoek.exe
+C:\Users\vikam\OneDrive\Рабочий стол\курсовая\coursewoek\coursewoek\bin\Debug\net6.0\coursewoek.deps.json
+C:\Users\vikam\OneDrive\Рабочий стол\курсовая\coursewoek\coursewoek\bin\Debug\net6.0\coursewoek.runtimeconfig.json
+C:\Users\vikam\OneDrive\Рабочий стол\курсовая\coursewoek\coursewoek\bin\Debug\net6.0\coursewoek.dll
+C:\Users\vikam\OneDrive\Рабочий стол\курсовая\coursewoek\coursewoek\bin\Debug\net6.0\coursewoek.pdb
+C:\Users\vikam\OneDrive\Рабочий стол\курсовая\coursewoek\coursewoek\obj\Debug\net6.0\coursewoek.dll
+C:\Users\vikam\OneDrive\Рабочий стол\курсовая\coursewoek\coursewoek\obj\Debug\net6.0\refint\coursewoek.dll
+C:\Users\vikam\OneDrive\Рабочий стол\курсовая\coursewoek\coursewoek\obj\Debug\net6.0\coursewoek.pdb
+C:\Users\vikam\OneDrive\Рабочий стол\курсовая\coursewoek\coursewoek\obj\Debug\net6.0\coursewoek.genruntimeconfig.cache
+C:\Users\vikam\OneDrive\Рабочий стол\курсовая\coursewoek\coursewoek\obj\Debug\net6.0\ref\coursewoek.dll
